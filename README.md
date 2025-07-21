@@ -57,5 +57,5 @@ This project is a smart chatbot developed during a final-year software engineeri
 
 For more information or a code sample, feel free to reach out:
 
--  Email: arbiamal012@gmail.com
+-  Email: sabrinegacem229@gmail.com
 -  Based in Tunisia | Open to relocation
